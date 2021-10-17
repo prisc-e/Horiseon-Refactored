@@ -1,5 +1,6 @@
 # Horiseon-Refactored
 This Horiseon has been refactored to meet current accessibility standards.
+#
 ## Edits Included:
 - Matching footer and header
 - Working links and alt text for webpage images
@@ -7,3 +8,6 @@ This Horiseon has been refactored to meet current accessibility standards.
 - @media width and size alternatives for smaller screens
 - Flex-wrap properties for content resizing and the navigation list
 - Additional comments for clarity
+#
+## Updated By:
+Priscilla Egli
